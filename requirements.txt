@@ -1,6 +1,0 @@
-streamlit
-cloudscraper
-beautifulsoup4
-pandas
-requests
-lxml
